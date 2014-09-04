@@ -1,0 +1,6 @@
+# Put your commands to run here. Put this in /etc/ or not. 
+
+commands:
+    #- "sleep 1"
+    #- "sleep 2"
+    #- "sleep 3"
